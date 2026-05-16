@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="段二" format="2">
+	<unicode hex="E404"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="548" y="845" type="line"/>
+			<point x="486" y="812"/>
+			<point x="379" y="774"/>
+			<point x="285" y="749" type="curve"/>
+			<point x="294" y="733"/>
+			<point x="306" y="707"/>
+			<point x="310" y="691" type="curve"/>
+			<point x="409" y="715"/>
+			<point x="525" y="749"/>
+			<point x="609" y="787" type="curve"/>
+		</contour>
+		<contour>
+			<point x="280" y="752" type="line"/>
+			<point x="280" y="-65" type="line"/>
+			<point x="353" y="-65" type="line"/>
+			<point x="353" y="727" type="line"/>
+		</contour>
+	</outline>
+</glyph>

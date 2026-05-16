@@ -4,16 +4,24 @@
 	<dict>
 		<key>.notdef</key>
 		<string>_notdef.glif</string>
+		<key>㒫字头</key>
+		<string>㒫字头.glif</string>
+		<key>㠯三</key>
+		<string>㠯三.glif</string>
 		<key>㳈字边</key>
 		<string>㳈字边.glif</string>
 		<key>䏓字旁</key>
 		<string>䏓字旁.glif</string>
+		<key>䯬下角</key>
+		<string>䯬下角.glif</string>
 		<key>万无横</key>
 		<string>万无横.glif</string>
 		<key>三竖</key>
 		<string>三竖.glif</string>
 		<key>与无横</key>
 		<string>与无横.glif</string>
+		<key>且无横</key>
+		<string>且无横.glif</string>
 		<key>丘无横</key>
 		<string>丘无横.glif</string>
 		<key>丙三</key>
@@ -42,6 +50,8 @@
 		<string>久二.glif</string>
 		<key>乌省</key>
 		<string>乌省.glif</string>
+		<key>乍字底</key>
+		<string>乍字底.glif</string>
 		<key>乐二</key>
 		<string>乐二.glif</string>
 		<key>乔字底</key>
@@ -50,6 +60,16 @@
 		<string>争字底.glif</string>
 		<key>于无横</key>
 		<string>于无横.glif</string>
+		<key>互无二</key>
+		<string>互无二.glif</string>
+		<key>五无横</key>
+		<string>五无横.glif</string>
+		<key>亙无二</key>
+		<string>亙无二.glif</string>
+		<key>亜无一</key>
+		<string>亜无一.glif</string>
+		<key>亞无一</key>
+		<string>亞无一.glif</string>
 		<key>亥无亠无人</key>
 		<string>亥无亠无人.glif</string>
 		<key>亦字底</key>
@@ -62,30 +82,46 @@
 		<string>亮字头.glif</string>
 		<key>以字旁</key>
 		<string>以字旁.glif</string>
+		<key>仺字底</key>
+		<string>仺字底.glif</string>
 		<key>余字底</key>
 		<string>余字底.glif</string>
 		<key>修字旁</key>
 		<string>修字旁.glif</string>
+		<key>倉字腰</key>
+		<string>倉字腰.glif</string>
 		<key>候右角</key>
 		<string>候右角.glif</string>
 		<key>傻下角</key>
 		<string>傻下角.glif</string>
 		<key>充字头</key>
 		<string>充字头.glif</string>
+		<key>免五</key>
+		<string>免五.glif</string>
 		<key>免字底</key>
 		<string>免字底.glif</string>
+		<key>兑字头</key>
+		<string>兑字头.glif</string>
 		<key>全字头</key>
 		<string>全字头.glif</string>
+		<key>共字底</key>
+		<string>共字底.glif</string>
 		<key>其字头</key>
 		<string>其字头.glif</string>
+		<key>其字头无横</key>
+		<string>其字头无横.glif</string>
 		<key>具字头</key>
 		<string>具字头.glif</string>
+		<key>典字头</key>
+		<string>典字头.glif</string>
 		<key>典字头带横</key>
 		<string>典字头带横.glif</string>
 		<key>养字头</key>
 		<string>养字头.glif</string>
 		<key>兼无䒑无彐</key>
 		<string>兼无䒑无彐.glif</string>
+		<key>兽字头</key>
+		<string>兽字头.glif</string>
 		<key>冒字头</key>
 		<string>冒字头.glif</string>
 		<key>冬字底</key>
@@ -96,6 +132,8 @@
 		<string>凹无横.glif</string>
 		<key>刀中</key>
 		<string>刀中.glif</string>
+		<key>刋字旁</key>
+		<string>刋字旁.glif</string>
 		<key>別字旁底</key>
 		<string>別字旁底.glif</string>
 		<key>化字边</key>
@@ -124,10 +162,14 @@
 		<string>即字旁.glif</string>
 		<key>卸字旁</key>
 		<string>卸字旁.glif</string>
+		<key>厯字底</key>
+		<string>厯字底.glif</string>
 		<key>及二</key>
 		<string>及二.glif</string>
 		<key>反字框</key>
 		<string>反字框.glif</string>
+		<key>发二</key>
+		<string>发二.glif</string>
 		<key>发无又</key>
 		<string>发无又.glif</string>
 		<key>变字头</key>
@@ -146,8 +188,12 @@
 		<string>向字框.glif</string>
 		<key>告字头</key>
 		<string>告字头.glif</string>
+		<key>周字心</key>
+		<string>周字心.glif</string>
 		<key>周字框</key>
 		<string>周字框.glif</string>
+		<key>商字头</key>
+		<string>商字头.glif</string>
 		<key>噩字框</key>
 		<string>噩字框.glif</string>
 		<key>囊字头</key>
@@ -162,6 +208,10 @@
 		<string>埓上角.glif</string>
 		<key>壳字头</key>
 		<string>壳字头.glif</string>
+		<key>夏字头</key>
+		<string>夏字头.glif</string>
+		<key>夐字头</key>
+		<string>夐字头.glif</string>
 		<key>夜下角</key>
 		<string>夜下角.glif</string>
 		<key>大框</key>
@@ -188,14 +238,20 @@
 		<string>寒字腰.glif</string>
 		<key>寒字腰带八</key>
 		<string>寒字腰带八.glif</string>
+		<key>寡字腰</key>
+		<string>寡字腰.glif</string>
 		<key>寿字头</key>
 		<string>寿字头.glif</string>
 		<key>少三</key>
 		<string>少三.glif</string>
+		<key>尔字头</key>
+		<string>尔字头.glif</string>
 		<key>尚头</key>
 		<string>尚头.glif</string>
 		<key>尚字头</key>
 		<string>尚字头.glif</string>
+		<key>尤无折</key>
+		<string>尤无折.glif</string>
 		<key>尧字头</key>
 		<string>尧字头.glif</string>
 		<key>展字心</key>
@@ -204,14 +260,22 @@
 		<string>屯无横.glif</string>
 		<key>山一</key>
 		<string>山一.glif</string>
+		<key>巤字底</key>
+		<string>巤字底.glif</string>
 		<key>左字框</key>
 		<string>左字框.glif</string>
 		<key>差字头</key>
 		<string>差字头.glif</string>
 		<key>师字旁</key>
 		<string>师字旁.glif</string>
+		<key>帝字头</key>
+		<string>帝字头.glif</string>
 		<key>带字头</key>
 		<string>带字头.glif</string>
+		<key>带无巾</key>
+		<string>带无巾.glif</string>
+		<key>帶字头</key>
+		<string>帶字头.glif</string>
 		<key>年字底</key>
 		<string>年字底.glif</string>
 		<key>应字心</key>
@@ -222,22 +286,38 @@
 		<string>延字心.glif</string>
 		<key>延字心无撇</key>
 		<string>延字心无撇.glif</string>
+		<key>弋二</key>
+		<string>弋二.glif</string>
 		<key>弟省</key>
 		<string>弟省.glif</string>
 		<key>弟省无弓</key>
 		<string>弟省无弓.glif</string>
+		<key>弬字边</key>
+		<string>弬字边.glif</string>
+		<key>彀字框无一</key>
+		<string>彀字框无一.glif</string>
 		<key>彀左角</key>
 		<string>彀左角.glif</string>
 		<key>录字头</key>
 		<string>录字头.glif</string>
+		<key>彧两撇</key>
+		<string>彧两撇.glif</string>
 		<key>彧字框</key>
 		<string>彧字框.glif</string>
 		<key>微字框</key>
 		<string>微字框.glif</string>
+		<key>微字框无一</key>
+		<string>微字框无一.glif</string>
 		<key>恭字底</key>
 		<string>恭字底.glif</string>
+		<key>恭字底无丶</key>
+		<string>恭字底无丶.glif</string>
 		<key>惠字头</key>
 		<string>惠字头.glif</string>
+		<key>憂字头</key>
+		<string>憂字头.glif</string>
+		<key>或字心</key>
+		<string>或字心.glif</string>
 		<key>扁字心</key>
 		<string>扁字心.glif</string>
 		<key>拜字边</key>
@@ -246,6 +326,8 @@
 		<string>拣字边无七.glif</string>
 		<key>敖字旁</key>
 		<string>敖字旁.glif</string>
+		<key>斜玉</key>
+		<string>斜玉.glif</string>
 		<key>旅下角</key>
 		<string>旅下角.glif</string>
 		<key>无三</key>
@@ -256,8 +338,16 @@
 		<string>曳字底.glif</string>
 		<key>曳无丿</key>
 		<string>曳无丿.glif</string>
+		<key>曹字头</key>
+		<string>曹字头.glif</string>
+		<key>曾字头</key>
+		<string>曾字头.glif</string>
 		<key>曾字头无丷</key>
 		<string>曾字头无丷.glif</string>
+		<key>月凡</key>
+		<string>月凡.glif</string>
+		<key>木无十</key>
+		<string>木无十.glif</string>
 		<key>木无横</key>
 		<string>木无横.glif</string>
 		<key>木框</key>
@@ -270,6 +360,8 @@
 		<string>横两撇.glif</string>
 		<key>横两点</key>
 		<string>横两点.glif</string>
+		<key>止旁</key>
+		<string>止旁.glif</string>
 		<key>步字底</key>
 		<string>步字底.glif</string>
 		<key>歺头</key>
@@ -280,10 +372,16 @@
 		<string>段字旁.glif</string>
 		<key>毋无框</key>
 		<string>毋无框.glif</string>
+		<key>毌二</key>
+		<string>毌二.glif</string>
 		<key>毌无框</key>
 		<string>毌无框.glif</string>
+		<key>母二</key>
+		<string>母二.glif</string>
 		<key>比字旁</key>
 		<string>比字旁.glif</string>
+		<key>比旁</key>
+		<string>比旁.glif</string>
 		<key>民字框</key>
 		<string>民字框.glif</string>
 		<key>气三</key>
@@ -294,14 +392,22 @@
 		<string>水字边.glif</string>
 		<key>永无点</key>
 		<string>永无点.glif</string>
+		<key>為无点</key>
+		<string>為无点.glif</string>
 		<key>烏省</key>
 		<string>烏省.glif</string>
 		<key>然左角</key>
 		<string>然左角.glif</string>
 		<key>爱字头</key>
 		<string>爱字头.glif</string>
+		<key>爲字底</key>
+		<string>爲字底.glif</string>
+		<key>爿旁</key>
+		<string>爿旁.glif</string>
 		<key>牙二</key>
 		<string>牙二.glif</string>
+		<key>牜无丨</key>
+		<string>牜无丨.glif</string>
 		<key>牜无丿</key>
 		<string>牜无丿.glif</string>
 		<key>犀字心头</key>
@@ -316,10 +422,18 @@
 		<string>甬字底.glif</string>
 		<key>畏字底</key>
 		<string>畏字底.glif</string>
+		<key>畏字底带横</key>
+		<string>畏字底带横.glif</string>
+		<key>留上角</key>
+		<string>留上角.glif</string>
 		<key>留字头</key>
 		<string>留字头.glif</string>
+		<key>畫字头</key>
+		<string>畫字头.glif</string>
 		<key>疏字旁</key>
 		<string>疏字旁.glif</string>
+		<key>癶右半</key>
+		<string>癶右半.glif</string>
 		<key>益字头</key>
 		<string>益字头.glif</string>
 		<key>盥右角</key>
@@ -330,6 +444,8 @@
 		<string>眉字框.glif</string>
 		<key>矛无龴</key>
 		<string>矛无龴.glif</string>
+		<key>祭右角</key>
+		<string>祭右角.glif</string>
 		<key>祭字头</key>
 		<string>祭字头.glif</string>
 		<key>禺字底</key>
@@ -340,8 +456,12 @@
 		<string>立无横.glif</string>
 		<key>竹头</key>
 		<string>竹头.glif</string>
+		<key>簔字底心</key>
+		<string>簔字底心.glif</string>
 		<key>索字头</key>
 		<string>索字头.glif</string>
+		<key>纵两撇</key>
+		<string>纵两撇.glif</string>
 		<key>经右角</key>
 		<string>经右角.glif</string>
 		<key>网字心</key>
@@ -372,14 +492,20 @@
 		<string>荒字底.glif</string>
 		<key>荧字头</key>
 		<string>荧字头.glif</string>
+		<key>落字框</key>
+		<string>落字框.glif</string>
 		<key>虍无七</key>
 		<string>虍无七.glif</string>
 		<key>虐字底</key>
 		<string>虐字底.glif</string>
+		<key>虛字底</key>
+		<string>虛字底.glif</string>
 		<key>虫无口</key>
 		<string>虫无口.glif</string>
 		<key>衡字心</key>
 		<string>衡字心.glif</string>
+		<key>衣框</key>
+		<string>衣框.glif</string>
 		<key>衣省</key>
 		<string>衣省.glif</string>
 		<key>衣省变</key>
@@ -390,6 +516,8 @@
 		<string>西字心.glif</string>
 		<key>见二</key>
 		<string>见二.glif</string>
+		<key>见字底</key>
+		<string>见字底.glif</string>
 		<key>览字头</key>
 		<string>览字头.glif</string>
 		<key>谷字头</key>
@@ -402,6 +530,8 @@
 		<string>负字头.glif</string>
 		<key>贤字头</key>
 		<string>贤字头.glif</string>
+		<key>贲字腰</key>
+		<string>贲字腰.glif</string>
 		<key>贵字头</key>
 		<string>贵字头.glif</string>
 		<key>赢字框</key>
@@ -436,10 +566,14 @@
 		<string>隶字框.glif</string>
 		<key>隹字边</key>
 		<string>隹字边.glif</string>
+		<key>雋字底</key>
+		<string>雋字底.glif</string>
 		<key>雨头</key>
 		<string>雨头.glif</string>
 		<key>青字底</key>
 		<string>青字底.glif</string>
+		<key>韋字头</key>
+		<string>韋字头.glif</string>
 		<key>韦无二</key>
 		<string>韦无二.glif</string>
 		<key>颐字旁</key>
@@ -448,6 +582,8 @@
 		<string>风省.glif</string>
 		<key>飞无折</key>
 		<string>飞无折.glif</string>
+		<key>飮字旁</key>
+		<string>飮字旁.glif</string>
 		<key>馬字框</key>
 		<string>馬字框.glif</string>
 		<key>马二</key>
@@ -458,6 +594,10 @@
 		<string>高头.glif</string>
 		<key>鬯四点</key>
 		<string>鬯四点.glif</string>
+		<key>鬯字头无凵</key>
+		<string>鬯字头无凵.glif</string>
+		<key>鬼无厶</key>
+		<string>鬼无厶.glif</string>
 		<key>鱼省</key>
 		<string>鱼省.glif</string>
 		<key>鳏下角</key>
@@ -470,10 +610,14 @@
 		<string>鹿字框.glif</string>
 		<key>鹿旁</key>
 		<string>鹿旁.glif</string>
+		<key>黄字底</key>
+		<string>黄字底.glif</string>
 		<key>黎右角</key>
 		<string>黎右角.glif</string>
 		<key>黑五</key>
 		<string>黑五.glif</string>
+		<key>黽字心</key>
+		<string>黽字心.glif</string>
 		<key>黽左角</key>
 		<string>黽左角.glif</string>
 		<key>鼎右角</key>
@@ -490,6 +634,8 @@
 		<string>龍字边.glif</string>
 		<key>龙下角</key>
 		<string>龙下角.glif</string>
+		<key>龜字心无撇</key>
+		<string>龜字心无撇.glif</string>
 		<key>龟字底</key>
 		<string>龟字底.glif</string>
 		<key>龠字腰</key>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="带无巾" format="2">
+	<unicode hex="E045"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="461" y="835" type="line"/>
+			<point x="461" y="555" type="line"/>
+			<point x="536" y="555" type="line"/>
+			<point x="536" y="835" type="line"/>
+		</contour>
+		<contour>
+			<point x="80" y="503" type="line"/>
+			<point x="80" y="300" type="line"/>
+			<point x="153" y="300" type="line"/>
+			<point x="153" y="439" type="line"/>
+			<point x="849" y="439" type="line"/>
+			<point x="849" y="300" type="line"/>
+			<point x="925" y="300" type="line"/>
+			<point x="925" y="503" type="line"/>
+		</contour>
+		<contour>
+			<point x="53" y="720" type="line"/>
+			<point x="53" y="655" type="line"/>
+			<point x="952" y="655" type="line"/>
+			<point x="952" y="720" type="line"/>
+		</contour>
+		<contour>
+			<point x="215" y="834" type="line"/>
+			<point x="215" y="552" type="line"/>
+			<point x="290" y="552" type="line"/>
+			<point x="290" y="834" type="line"/>
+		</contour>
+		<contour>
+			<point x="716" y="834" type="line"/>
+			<point x="716" y="550" type="line"/>
+			<point x="791" y="550" type="line"/>
+			<point x="791" y="834" type="line"/>
+		</contour>
+	</outline>
+</glyph>

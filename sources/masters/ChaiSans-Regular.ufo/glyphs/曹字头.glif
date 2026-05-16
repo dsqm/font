@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="曹字头" format="2">
+	<unicode hex="E066"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="69" y="600" type="line"/>
+			<point x="69" y="537" type="line"/>
+			<point x="930" y="537" type="line"/>
+			<point x="930" y="600" type="line"/>
+		</contour>
+		<contour>
+			<point x="345" y="675" type="line"/>
+			<point x="345" y="69" type="line"/>
+			<point x="418" y="69" type="line"/>
+			<point x="418" y="675" type="line"/>
+		</contour>
+		<contour>
+			<point x="571" y="675" type="line"/>
+			<point x="571" y="67" type="line"/>
+			<point x="644" y="67" type="line"/>
+			<point x="644" y="675" type="line"/>
+		</contour>
+		<contour>
+			<point x="201" y="213" type="line"/>
+			<point x="788" y="213" type="line"/>
+			<point x="788" y="113" type="line"/>
+			<point x="201" y="113" type="line"/>
+		</contour>
+		<contour>
+			<point x="201" y="379" type="line"/>
+			<point x="788" y="379" type="line"/>
+			<point x="788" y="278" type="line"/>
+			<point x="201" y="278" type="line"/>
+		</contour>
+		<contour>
+			<point x="127" y="434" type="line"/>
+			<point x="127" y="43" type="line"/>
+			<point x="865" y="43" type="line"/>
+			<point x="865" y="434" type="line"/>
+		</contour>
+	</outline>
+</glyph>

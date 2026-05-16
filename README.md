@@ -24,3 +24,9 @@ python3 build.py
 | `ChaiSans-Regular.otf` | OpenType CFF |
 | `ChaiSans-Regular.woff` | WOFF（网页用） |
 | `ChaiSans-Regular.woff2` | WOFF2（网页用，压缩率更高） |
+
+## 构建 Chai Yuniversus
+
+```
+wget https://shurufa.app/fonts/yuniversus-chaipua.csv
+```

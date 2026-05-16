@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="卢字头" format="2">
+	<unicode hex="E018"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="375" y="838" type="line"/>
+			<point x="375" y="-79" type="line"/>
+			<point x="455" y="-79" type="line"/>
+			<point x="455" y="838" type="line"/>
+		</contour>
+		<contour>
+			<point x="422" y="434" type="line"/>
+			<point x="422" y="356" type="line"/>
+			<point x="810" y="356" type="line"/>
+			<point x="810" y="434" type="line"/>
+		</contour>
+	</outline>
+</glyph>

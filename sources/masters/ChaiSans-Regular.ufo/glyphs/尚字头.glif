@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="尚字头" format="2">
+	<unicode hex="E03E"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="460" y="822" type="line"/>
+			<point x="460" y="472" type="line"/>
+			<point x="536" y="472" type="line"/>
+			<point x="536" y="822" type="line"/>
+		</contour>
+		<contour>
+			<point x="114" y="733" type="line"/>
+			<point x="169" y="662"/>
+			<point x="222" y="565"/>
+			<point x="242" y="500" type="curve"/>
+			<point x="315" y="534" type="line"/>
+			<point x="294" y="599"/>
+			<point x="240" y="693"/>
+			<point x="182" y="763" type="curve"/>
+		</contour>
+		<contour>
+			<point x="812" y="769" type="line"/>
+			<point x="778" y="693"/>
+			<point x="715" y="591"/>
+			<point x="666" y="527" type="curve"/>
+			<point x="732" y="498" type="line"/>
+			<point x="782" y="560"/>
+			<point x="844" y="655"/>
+			<point x="892" y="739" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

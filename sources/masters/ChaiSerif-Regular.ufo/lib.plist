@@ -17,7 +17,7 @@
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.3
 1778859582.7 fontinfo.plist
-1778891595.6 layercontents.plist
+1778954879.7 layercontents.plist
 1778859582.7 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
@@ -268,6 +268,79 @@
 			<string>山一</string>
 			<string>衡字心</string>
 			<string>𠕉字底</string>
+			<string>飮字旁</string>
+			<string>祭右角</string>
+			<string>发二</string>
+			<string>曹字头</string>
+			<string>纵两撇</string>
+			<string>乍字底</string>
+			<string>木无十</string>
+			<string>畏字底带横</string>
+			<string>留上角</string>
+			<string>尔字头</string>
+			<string>㠯三</string>
+			<string>亙无二</string>
+			<string>鬯字头无凵</string>
+			<string>癶右半</string>
+			<string>五无横</string>
+			<string>刋字旁</string>
+			<string>㒫字头</string>
+			<string>弬字边</string>
+			<string>亜无一</string>
+			<string>亞无一</string>
+			<string>恭字底无丶</string>
+			<string>爿旁</string>
+			<string>簔字底心</string>
+			<string>黽字心</string>
+			<string>韋字头</string>
+			<string>龜字心无撇</string>
+			<string>仺字底</string>
+			<string>雋字底</string>
+			<string>母二</string>
+			<string>毌二</string>
+			<string>弋二</string>
+			<string>且无横</string>
+			<string>见字底</string>
+			<string>互无二</string>
+			<string>爲字底</string>
+			<string>彀字框无一</string>
+			<string>夐字头</string>
+			<string>為无点</string>
+			<string>微字框无一</string>
+			<string>斜玉</string>
+			<string>免五</string>
+			<string>夏字头</string>
+			<string>寡字腰</string>
+			<string>带无巾</string>
+			<string>牜无丨</string>
+			<string>商字头</string>
+			<string>帝字头</string>
+			<string>曾字头</string>
+			<string>其字头无横</string>
+			<string>鬼无厶</string>
+			<string>尤无折</string>
+			<string>憂字头</string>
+			<string>倉字腰</string>
+			<string>帶字头</string>
+			<string>䯬下角</string>
+			<string>畫字头</string>
+			<string>虛字底</string>
+			<string>厯字底</string>
+			<string>止旁</string>
+			<string>贲字腰</string>
+			<string>典字头</string>
+			<string>共字底</string>
+			<string>衣框</string>
+			<string>兑字头</string>
+			<string>落字框</string>
+			<string>或字心</string>
+			<string>周字心</string>
+			<string>比旁</string>
+			<string>巤字底</string>
+			<string>黄字底</string>
+			<string>兽字头</string>
+			<string>月凡</string>
+			<string>彧两撇</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

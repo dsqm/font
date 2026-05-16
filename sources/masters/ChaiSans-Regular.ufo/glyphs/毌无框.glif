@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="毌无框" format="2">
+	<unicode hex="E452"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="43" y="448" type="line"/>
+			<point x="43" y="378" type="line"/>
+			<point x="958" y="378" type="line"/>
+			<point x="958" y="448" type="line"/>
+		</contour>
+		<contour>
+			<point x="470" y="746" type="line"/>
+			<point x="465" y="528"/>
+			<point x="446" y="223"/>
+			<point x="426" y="49" type="curve"/>
+			<point x="501" y="47" type="line"/>
+			<point x="517" y="219"/>
+			<point x="534" y="524"/>
+			<point x="542" y="747" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

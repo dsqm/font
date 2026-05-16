@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="学字头" format="2">
+	<unicode hex="E42D"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="417" y="593" type="qcurve"/>
+			<point x="349" y="568" type="line"/>
+			<point x="386" y="495"/>
+			<point x="417" y="404" type="qcurve"/>
+			<point x="449" y="314"/>
+			<point x="461" y="249" type="qcurve"/>
+			<point x="536" y="277" type="line"/>
+			<point x="522" y="342"/>
+			<point x="457" y="518"/>
+		</contour>
+		<contour>
+			<point x="843" y="564" type="line"/>
+			<point x="806" y="470"/>
+			<point x="744" y="355" type="qcurve"/>
+			<point x="684" y="242"/>
+			<point x="629" y="162" type="qcurve"/>
+			<point x="701" y="136" type="line"/>
+			<point x="809" y="288"/>
+			<point x="928" y="538" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="117" y="515" type="qcurve"/>
+			<point x="49" y="484" type="line"/>
+			<point x="96" y="414"/>
+			<point x="138" y="327" type="qcurve"/>
+			<point x="182" y="242"/>
+			<point x="201" y="178" type="qcurve"/>
+			<point x="274" y="213" type="line"/>
+			<point x="253" y="275"/>
+			<point x="209" y="359" type="qcurve"/>
+			<point x="165" y="444"/>
+		</contour>
+	</outline>
+</glyph>

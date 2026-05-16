@@ -4,9 +4,9 @@
 	<dict>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.3
-1778874901.3 fontinfo.plist
-1778891595.5 layercontents.plist
-1778874901.3 metainfo.plist</string>
+1778954827.4 fontinfo.plist
+1778954879.5 layercontents.plist
+1778954827.4 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -184,6 +184,114 @@
 			<string>頁变</string>
 			<string>山一</string>
 			<string>养字头</string>
+			<string>叚右角</string>
+			<string>冬字底</string>
+			<string>卢字头</string>
+			<string>飮字旁</string>
+			<string>卯字旁</string>
+			<string>祭右角</string>
+			<string>负字头</string>
+			<string>反字框</string>
+			<string>向字框</string>
+			<string>告字头</string>
+			<string>囱字框</string>
+			<string>尚字头</string>
+			<string>差字头</string>
+			<string>春字头</string>
+			<string>曹字头</string>
+			<string>卑六</string>
+			<string>纵两撇</string>
+			<string>乍字底</string>
+			<string>木无十</string>
+			<string>美字头</string>
+			<string>竹头</string>
+			<string>曾字头无丷</string>
+			<string>亦字底无八</string>
+			<string>尔字头</string>
+			<string>㠯三</string>
+			<string>足旁</string>
+			<string>追字心</string>
+			<string>雨头</string>
+			<string>青字底</string>
+			<string>风省</string>
+			<string>癶右半</string>
+			<string>龟字底</string>
+			<string>噩字框</string>
+			<string>衣省变</string>
+			<string>䏓字旁</string>
+			<string>㳈字边</string>
+			<string>弬字边</string>
+			<string>曳无丿</string>
+			<string>恭字底无丶</string>
+			<string>爿旁</string>
+			<string>埓上角</string>
+			<string>虍无七</string>
+			<string>簔字底心</string>
+			<string>韋字头</string>
+			<string>西字心</string>
+			<string>仺字底</string>
+			<string>雋字底</string>
+			<string>別字旁底</string>
+			<string>犀字心头</string>
+			<string>为字框</string>
+			<string>段二</string>
+			<string>母二</string>
+			<string>毌二</string>
+			<string>牙二</string>
+			<string>三竖</string>
+			<string>见字底</string>
+			<string>学字头</string>
+			<string>经右角</string>
+			<string>里无日</string>
+			<string>全字头</string>
+			<string>互无二</string>
+			<string>毋无框</string>
+			<string>毌无框</string>
+			<string>爲字底</string>
+			<string>赢字框</string>
+			<string>鹿旁</string>
+			<string>彀字框无一</string>
+			<string>夐字头</string>
+			<string>為无点</string>
+			<string>微字框无一</string>
+			<string>斜玉</string>
+			<string>禺字底</string>
+			<string>夏字头</string>
+			<string>妻字头</string>
+			<string>姊字边</string>
+			<string>寡字腰</string>
+			<string>带无巾</string>
+			<string>恭字底</string>
+			<string>牜无丨</string>
+			<string>商字头</string>
+			<string>帝字头</string>
+			<string>丙三</string>
+			<string>曾字头</string>
+			<string>囊字头</string>
+			<string>疏字旁</string>
+			<string>其字头无横</string>
+			<string>歺头</string>
+			<string>鬼无厶</string>
+			<string>尤无折</string>
+			<string>发无又</string>
+			<string>倉字腰</string>
+			<string>帶字头</string>
+			<string>䯬下角</string>
+			<string>烏省</string>
+			<string>止旁</string>
+			<string>龙下角</string>
+			<string>贲字腰</string>
+			<string>衣框</string>
+			<string>修字旁</string>
+			<string>兑字头</string>
+			<string>落字框</string>
+			<string>微字框</string>
+			<string>或字心</string>
+			<string>周字心</string>
+			<string>比旁</string>
+			<string>荧字头</string>
+			<string>黄字底</string>
+			<string>兽字头</string>
 		</array>
 	</dict>
 </plist>

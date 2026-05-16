@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="倉字腰" format="2">
+	<unicode hex="E10E"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="257" y="408" type="line"/>
+			<point x="257" y="358" type="line"/>
+			<point x="773" y="358" type="line"/>
+			<point x="773" y="408" type="line"/>
+		</contour>
+		<contour>
+			<point x="207" y="523" type="line"/>
+			<point x="207" y="385" type="line"/>
+			<point x="207" y="267"/>
+			<point x="187" y="110"/>
+			<point x="49" y="-3" type="curve"/>
+			<point x="65" y="-12"/>
+			<point x="94" y="-39"/>
+			<point x="105" y="-54" type="curve"/>
+			<point x="253" y="67"/>
+			<point x="282" y="251"/>
+			<point x="282" y="384" type="curve"/>
+			<point x="282" y="524" type="line"/>
+		</contour>
+		<contour>
+			<point x="266" y="524" type="line"/>
+			<point x="266" y="472" type="line"/>
+			<point x="718" y="472" type="line"/>
+			<point x="718" y="291" type="line"/>
+			<point x="260" y="291" type="line"/>
+			<point x="260" y="239" type="line"/>
+			<point x="790" y="239" type="line"/>
+			<point x="790" y="523" type="line"/>
+		</contour>
+	</outline>
+</glyph>

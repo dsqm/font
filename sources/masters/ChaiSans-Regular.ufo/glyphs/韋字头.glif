@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="韋字头" format="2">
+	<unicode hex="E16E"/>
+	<advance width="1001"/>
+	<outline>
+		<contour>
+			<point x="664" y="51" type="line"/>
+			<point x="696" y="379" type="line"/>
+			<point x="442" y="379" type="line"/>
+			<point x="414" y="195"/>
+			<point x="383" y="51" type="qcurve"/>
+		</contour>
+		<contour>
+			<point x="942" y="-23" type="line"/>
+			<point x="59" y="-23" type="line"/>
+			<point x="59" y="51" type="line"/>
+			<point x="305" y="51" type="line"/>
+			<point x="364" y="379" type="line"/>
+			<point x="180" y="379" type="line"/>
+			<point x="180" y="449" type="line"/>
+			<point x="375" y="449" type="line"/>
+			<point x="403" y="613"/>
+			<point x="414" y="738" type="qcurve"/>
+			<point x="496" y="738" type="line"/>
+			<point x="454" y="449" type="line"/>
+			<point x="719" y="453" type="line"/>
+			<point x="778" y="449" type="line"/>
+			<point x="766" y="266"/>
+			<point x="739" y="51" type="qcurve"/>
+			<point x="942" y="51" type="line"/>
+		</contour>
+	</outline>
+</glyph>

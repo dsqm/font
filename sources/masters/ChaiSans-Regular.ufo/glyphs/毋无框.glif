@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="毋无框" format="2">
+	<unicode hex="E443"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="54" y="498" type="line"/>
+			<point x="54" y="428" type="line"/>
+			<point x="948" y="428" type="line"/>
+			<point x="948" y="498" type="line"/>
+		</contour>
+		<contour>
+			<point x="493" y="759" type="line"/>
+			<point x="486" y="316"/>
+			<point x="426" y="88"/>
+			<point x="102" y="-24" type="curve"/>
+			<point x="120" y="-38"/>
+			<point x="152" y="-68"/>
+			<point x="163" y="-81" type="curve"/>
+			<point x="486" y="53"/>
+			<point x="555" y="288"/>
+			<point x="568" y="757" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

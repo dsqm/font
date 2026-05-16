@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="风省" format="2">
+	<unicode hex="E0D6"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="211" y="773" type="line"/>
+			<point x="211" y="701" type="line"/>
+			<point x="763" y="701" type="line"/>
+			<point x="763" y="773" type="line"/>
+		</contour>
+		<contour>
+			<point x="179" y="773" type="line"/>
+			<point x="179" y="512" type="line"/>
+			<point x="179" y="348"/>
+			<point x="166" y="127"/>
+			<point x="35" y="-31" type="curve"/>
+			<point x="51" y="-40"/>
+			<point x="82" y="-66"/>
+			<point x="94" y="-81" type="curve"/>
+			<point x="234" y="86"/>
+			<point x="254" y="337"/>
+			<point x="254" y="513" type="curve"/>
+			<point x="254" y="775" type="line"/>
+		</contour>
+		<contour>
+			<point x="728" y="775" type="line"/>
+			<point x="729" y="255"/>
+			<point x="729" y="-76"/>
+			<point x="881" y="-76" type="curve"/>
+			<point x="943" y="-76"/>
+			<point x="959" y="-29"/>
+			<point x="966" y="134" type="curve"/>
+			<point x="951" y="144"/>
+			<point x="930" y="164"/>
+			<point x="916" y="182" type="curve"/>
+			<point x="913" y="79"/>
+			<point x="907" y="1"/>
+			<point x="888" y="1" type="curve"/>
+			<point x="816" y="1"/>
+			<point x="801" y="239"/>
+			<point x="801" y="608" type="curve"/>
+			<point x="801" y="661"/>
+			<point x="801" y="717"/>
+			<point x="802" y="775" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

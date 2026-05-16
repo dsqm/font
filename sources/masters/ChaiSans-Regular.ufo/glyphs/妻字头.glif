@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="妻字头" format="2">
+	<unicode hex="E035"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="50" y="514" type="line"/>
+			<point x="50" y="454" type="line"/>
+			<point x="949" y="454" type="line"/>
+			<point x="949" y="514" type="line"/>
+		</contour>
+		<contour>
+			<point x="73" y="765" type="line"/>
+			<point x="73" y="705" type="line"/>
+			<point x="920" y="705" type="line"/>
+			<point x="920" y="765" type="line"/>
+		</contour>
+		<contour>
+			<point x="456" y="840" type="line"/>
+			<point x="456" y="357" type="line"/>
+			<point x="530" y="357" type="line"/>
+			<point x="530" y="840" type="line"/>
+		</contour>
+		<contour>
+			<point x="155" y="637" type="line"/>
+			<point x="155" y="580" type="line"/>
+			<point x="761" y="580" type="line"/>
+			<point x="761" y="386" type="line"/>
+			<point x="149" y="386" type="line"/>
+			<point x="149" y="329" type="line"/>
+			<point x="835" y="329" type="line"/>
+			<point x="835" y="636" type="line"/>
+		</contour>
+	</outline>
+</glyph>
