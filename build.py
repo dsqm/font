@@ -49,6 +49,7 @@ def build(ufo_path: Path, dist_dir: Path) -> None:
     # save/reload that would fail on non-ASCII names.
     # optimizeCFF=0: skips subroutinization (also triggers a save internally).
     otf = ufo2ft.compileOTF(ufo, useProductionNames=False, optimizeCFF=0)
+    ttf = ufo2ft.compileTTF(ufo, useProductionNames=False)
 
     # "Chai Sans-Regular" → "NotoSansChaiSC-Regular"
     stem = ufo_path.stem.replace(" ", "")
@@ -57,6 +58,10 @@ def build(ufo_path: Path, dist_dir: Path) -> None:
     otf_path = dist_dir / f"{stem}.otf"
     otf.save(str(otf_path))
     print(f"  → {otf_path.relative_to(Path.cwd())}")
+
+    ttf_path = dist_dir / f"{stem}.ttf"
+    ttf.save(str(ttf_path))
+    print(f"  → {ttf_path.relative_to(Path.cwd())}")
 
     for flavor, ext in (("woff", ".woff"), ("woff2", ".woff2")):
         out = dist_dir / f"{stem}{ext}"
@@ -69,6 +74,11 @@ def build(ufo_path: Path, dist_dir: Path) -> None:
 def build_yuniversus(ufo_path: Path, csv_path: Path, dist_dir: Path) -> None:
     # Load the 45 (chaipua → yuniversus) codepoint pairs from the CSV.
     # Rows where both columns are non-empty define cross-font PUA mappings.
+    # if csv_path is missing, skip building
+    if not csv_path.is_file():
+        print(f"Warning: {csv_path} not found, skipping ChaiSansYuniversus build")
+        return
+
     chaipua_to_yuniversus: dict[int, int] = {}
     with open(csv_path, newline="", encoding="utf-8") as f:
         for row in csv.DictReader(f):
@@ -125,11 +135,16 @@ def build_yuniversus(ufo_path: Path, csv_path: Path, dist_dir: Path) -> None:
 
     _rename_ufo_glyphs(ufo)
     otf = ufo2ft.compileOTF(ufo, useProductionNames=False, optimizeCFF=0)
+    ttf = ufo2ft.compileTTF(ufo, useProductionNames=False)
 
     dist_dir.mkdir(parents=True, exist_ok=True)
     otf_path = dist_dir / "ChaiSansYuniversus-Regular.otf"
     otf.save(str(otf_path))
     print(f"  → {otf_path.relative_to(Path.cwd())}")
+
+    ttf_path = dist_dir / "ChaiSansYuniversus-Regular.ttf"
+    ttf.save(str(ttf_path))
+    print(f"  → {ttf_path.relative_to(Path.cwd())}")
 
     for flavor, ext in (("woff", ".woff"), ("woff2", ".woff2")):
         out = dist_dir / f"ChaiSansYuniversus-Regular{ext}"
