@@ -4,9 +4,9 @@
 	<dict>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.3
-1779072772.9 fontinfo.plist
-1779072772.9 layercontents.plist
-1779072772.9 metainfo.plist</string>
+1779679892.8 fontinfo.plist
+1779679892.8 layercontents.plist
+1779679892.8 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -76,6 +76,7 @@
 			<string>卬字旁</string>
 			<string>永无点</string>
 			<string>牜无丨</string>
+			<string>拣字边</string>
 			<string>凸无横</string>
 			<string>商字头</string>
 			<string>凹无横</string>
@@ -102,8 +103,11 @@
 			<string>比字旁</string>
 			<string>韦无二</string>
 			<string>乍字底</string>
+			<string>非字旁</string>
 			<string>旅下角</string>
 			<string>荒字底</string>
+			<string>非字边</string>
+			<string>芈二</string>
 			<string>然左角</string>
 			<string>木无十</string>
 			<string>飞无折</string>
@@ -112,6 +116,7 @@
 			<string>甬字底</string>
 			<string>畏字底带横</string>
 			<string>留上角</string>
+			<string>重字框</string>
 			<string>疏字旁</string>
 			<string>屯无横</string>
 			<string>美字头</string>
@@ -129,6 +134,7 @@
 			<string>舞字头无卧人</string>
 			<string>高头</string>
 			<string>臧字框</string>
+			<string>至字头</string>
 			<string>舆字头框</string>
 			<string>节字底</string>
 			<string>虐字底</string>
@@ -146,6 +152,7 @@
 			<string>车旁</string>
 			<string>辛旁</string>
 			<string>追字心</string>
+			<string>皮三</string>
 			<string>金字底</string>
 			<string>雨头</string>
 			<string>亙无二</string>
@@ -162,12 +169,14 @@
 			<string>鼎左角</string>
 			<string>鼠字底</string>
 			<string>乔字底</string>
+			<string>龠字腰</string>
 			<string>癶右半</string>
 			<string>五无横</string>
 			<string>龟字底</string>
 			<string>鬼无厶</string>
 			<string>隶字框</string>
 			<string>典字头带横</string>
+			<string>求字框</string>
 			<string>囊字头无冖</string>
 			<string>尤无折</string>
 			<string>发无又</string>
@@ -208,11 +217,21 @@
 			<string>韋字头</string>
 			<string>龜字心无撇</string>
 			<string>鬬字心旁</string>
+			<string>亥无人</string>
+			<string>舞字头无朱三</string>
+			<string>豸字底</string>
+			<string>牙字底</string>
+			<string>曳字底</string>
+			<string>甫字头</string>
+			<string>屯三</string>
 			<string>弟省无弓</string>
+			<string>矛无龴无乛</string>
+			<string>毛三</string>
 			<string>西字心</string>
 			<string>耉字框无耂</string>
 			<string>惠字头无点</string>
 			<string>亥三</string>
+			<string>乌省</string>
 			<string>仺字底</string>
 			<string>雋字底</string>
 			<string>㐆无折</string>
@@ -223,10 +242,14 @@
 			<string>虛字底无一</string>
 			<string>亚三</string>
 			<string>宐字底无横</string>
+			<string>豕二</string>
+			<string>爿二</string>
+			<string>戋无一</string>
 			<string>井变</string>
 			<string>乑无丿</string>
 			<string>丘无横</string>
 			<string>为字框</string>
+			<string>步字底无撇</string>
 			<string>段二</string>
 			<string>母二</string>
 			<string>毌二</string>
@@ -253,6 +276,7 @@
 			<string>见字底</string>
 			<string>鱼省</string>
 			<string>万无横</string>
+			<string>隹字边</string>
 			<string>率字腰</string>
 			<string>水字框</string>
 			<string>学字头</string>
@@ -265,6 +289,7 @@
 			<string>马二</string>
 			<string>黑五</string>
 			<string>止旁</string>
+			<string>水字边</string>
 			<string>见二</string>
 			<string>里无日</string>
 			<string>全字头</string>
@@ -273,6 +298,7 @@
 			<string>及二</string>
 			<string>少三</string>
 			<string>毋无框</string>
+			<string>木无横</string>
 			<string>横两点</string>
 			<string>横三点</string>
 			<string>禾框</string>
@@ -296,6 +322,7 @@
 			<string>赢字框</string>
 			<string>鹿旁</string>
 			<string>比旁</string>
+			<string>璺字头无冖</string>
 			<string>彀字框无一</string>
 			<string>夐字头</string>
 			<string>㒳字框</string>
@@ -317,6 +344,7 @@
 			<string>齊字头</string>
 			<string>襄字头</string>
 			<string>㵸字旁头</string>
+			<string>寒字头无八</string>
 		</array>
 	</dict>
 </plist>

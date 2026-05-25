@@ -16,9 +16,9 @@
 		<false/>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.3
-1779050456.3 fontinfo.plist
-1779072773.0 layercontents.plist
-1779050456.4 metainfo.plist</string>
+1779166725.3 fontinfo.plist
+1779679892.9 layercontents.plist
+1779166725.3 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -341,6 +341,26 @@
 			<string>兽字头</string>
 			<string>月凡</string>
 			<string>彧两撇</string>
+			<string>拣字边</string>
+			<string>非字旁</string>
+			<string>非字边</string>
+			<string>重字框</string>
+			<string>至字头</string>
+			<string>皮三</string>
+			<string>求字框</string>
+			<string>亥无人</string>
+			<string>舞字头无朱三</string>
+			<string>牙字底</string>
+			<string>甫字头</string>
+			<string>屯三</string>
+			<string>矛无龴无乛</string>
+			<string>毛三</string>
+			<string>豕二</string>
+			<string>爿二</string>
+			<string>戋无一</string>
+			<string>步字底无撇</string>
+			<string>璺字头无冖</string>
+			<string>寒字头无八</string>
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

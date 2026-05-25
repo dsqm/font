@@ -72,6 +72,8 @@
 		<string>亞无一.glif</string>
 		<key>亥无亠无人</key>
 		<string>亥无亠无人.glif</string>
+		<key>亥无人</key>
+		<string>亥无人.glif</string>
 		<key>亦字底</key>
 		<string>亦字底.glif</string>
 		<key>亦字底无八</key>
@@ -234,6 +236,8 @@
 		<string>定字底.glif</string>
 		<key>寒字头</key>
 		<string>寒字头.glif</string>
+		<key>寒字头无八</key>
+		<string>寒字头无八.glif</string>
 		<key>寒字腰</key>
 		<string>寒字腰.glif</string>
 		<key>寒字腰带八</key>
@@ -256,6 +260,8 @@
 		<string>尧字头.glif</string>
 		<key>展字心</key>
 		<string>展字心.glif</string>
+		<key>屯三</key>
+		<string>屯三.glif</string>
 		<key>屯无横</key>
 		<string>屯无横.glif</string>
 		<key>山一</key>
@@ -316,12 +322,16 @@
 		<string>惠字头.glif</string>
 		<key>憂字头</key>
 		<string>憂字头.glif</string>
+		<key>戋无一</key>
+		<string>戋无一.glif</string>
 		<key>或字心</key>
 		<string>或字心.glif</string>
 		<key>扁字心</key>
 		<string>扁字心.glif</string>
 		<key>拜字边</key>
 		<string>拜字边.glif</string>
+		<key>拣字边</key>
+		<string>拣字边.glif</string>
 		<key>拣字边无七</key>
 		<string>拣字边无七.glif</string>
 		<key>敖字旁</key>
@@ -364,6 +374,8 @@
 		<string>止旁.glif</string>
 		<key>步字底</key>
 		<string>步字底.glif</string>
+		<key>步字底无撇</key>
+		<string>步字底无撇.glif</string>
 		<key>歺头</key>
 		<string>歺头.glif</string>
 		<key>段二</key>
@@ -382,6 +394,8 @@
 		<string>比字旁.glif</string>
 		<key>比旁</key>
 		<string>比旁.glif</string>
+		<key>毛三</key>
+		<string>毛三.glif</string>
 		<key>民字框</key>
 		<string>民字框.glif</string>
 		<key>气三</key>
@@ -392,6 +406,8 @@
 		<string>水字边.glif</string>
 		<key>永无点</key>
 		<string>永无点.glif</string>
+		<key>求字框</key>
+		<string>求字框.glif</string>
 		<key>為无点</key>
 		<string>為无点.glif</string>
 		<key>烏省</key>
@@ -402,10 +418,14 @@
 		<string>爱字头.glif</string>
 		<key>爲字底</key>
 		<string>爲字底.glif</string>
+		<key>爿二</key>
+		<string>爿二.glif</string>
 		<key>爿旁</key>
 		<string>爿旁.glif</string>
 		<key>牙二</key>
 		<string>牙二.glif</string>
+		<key>牙字底</key>
+		<string>牙字底.glif</string>
 		<key>牜无丨</key>
 		<string>牜无丨.glif</string>
 		<key>牜无丿</key>
@@ -416,8 +436,12 @@
 		<string>犭二.glif</string>
 		<key>率字腰</key>
 		<string>率字腰.glif</string>
+		<key>璺字头无冖</key>
+		<string>璺字头无冖.glif</string>
 		<key>瓜字心</key>
 		<string>瓜字心.glif</string>
+		<key>甫字头</key>
+		<string>甫字头.glif</string>
 		<key>甬字底</key>
 		<string>甬字底.glif</string>
 		<key>畏字底</key>
@@ -434,6 +458,8 @@
 		<string>疏字旁.glif</string>
 		<key>癶右半</key>
 		<string>癶右半.glif</string>
+		<key>皮三</key>
+		<string>皮三.glif</string>
 		<key>益字头</key>
 		<string>益字头.glif</string>
 		<key>盥右角</key>
@@ -444,6 +470,8 @@
 		<string>眉字框.glif</string>
 		<key>矛无龴</key>
 		<string>矛无龴.glif</string>
+		<key>矛无龴无乛</key>
+		<string>矛无龴无乛.glif</string>
 		<key>祭右角</key>
 		<string>祭右角.glif</string>
 		<key>祭字头</key>
@@ -474,6 +502,8 @@
 		<string>臦字旁.glif</string>
 		<key>臧字框</key>
 		<string>臧字框.glif</string>
+		<key>至字头</key>
+		<string>至字头.glif</string>
 		<key>臼裂</key>
 		<string>臼裂.glif</string>
 		<key>舆字头框</key>
@@ -482,6 +512,8 @@
 		<string>舍字底.glif</string>
 		<key>舞字头</key>
 		<string>舞字头.glif</string>
+		<key>舞字头无朱三</key>
+		<string>舞字头无朱三.glif</string>
 		<key>舟无撇</key>
 		<string>舟无撇.glif</string>
 		<key>节字底</key>
@@ -522,6 +554,8 @@
 		<string>览字头.glif</string>
 		<key>谷字头</key>
 		<string>谷字头.glif</string>
+		<key>豕二</key>
+		<string>豕二.glif</string>
 		<key>豕省</key>
 		<string>豕省.glif</string>
 		<key>豸字底</key>
@@ -554,6 +588,8 @@
 		<string>那字旁.glif</string>
 		<key>里无日</key>
 		<string>里无日.glif</string>
+		<key>重字框</key>
+		<string>重字框.glif</string>
 		<key>金字底</key>
 		<string>金字底.glif</string>
 		<key>镸无厶</key>
@@ -572,6 +608,10 @@
 		<string>雨头.glif</string>
 		<key>青字底</key>
 		<string>青字底.glif</string>
+		<key>非字旁</key>
+		<string>非字旁.glif</string>
+		<key>非字边</key>
+		<string>非字边.glif</string>
 		<key>韋字头</key>
 		<string>韋字头.glif</string>
 		<key>韦无二</key>

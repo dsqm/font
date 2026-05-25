@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="甫字头" format="2">
+	<unicode hex="E179"/>
+	<advance width="1000"/>
+	<outline>
+		<contour>
+			<point x="62" y="705" type="line"/>
+			<point x="62" y="635" type="line"/>
+			<point x="941" y="635" type="line"/>
+			<point x="941" y="705" type="line"/>
+		</contour>
+		<contour>
+			<point x="461" y="840" type="line"/>
+			<point x="461" y="-72" type="line"/>
+			<point x="539" y="-72" type="line"/>
+			<point x="539" y="840" type="line"/>
+		</contour>
+		<contour>
+			<point x="619" y="797" type="line"/>
+			<point x="685" y="767"/>
+			<point x="774" y="722"/>
+			<point x="819" y="695" type="curve"/>
+			<point x="859" y="747" type="line"/>
+			<point x="812" y="774"/>
+			<point x="722" y="815"/>
+			<point x="657" y="842" type="curve"/>
+		</contour>
+	</outline>
+</glyph>
