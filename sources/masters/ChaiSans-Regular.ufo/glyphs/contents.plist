@@ -414,6 +414,10 @@
 		<string>永无点.glif</string>
 		<key>求字框</key>
 		<string>求字框.glif</string>
+		<key>淵字边右</key>
+		<string>淵字边右.glif</string>
+		<key>淵字边左</key>
+		<string>淵字边左.glif</string>
 		<key>為无点</key>
 		<string>為无点.glif</string>
 		<key>烏省</key>
@@ -462,6 +466,8 @@
 		<string>疏字旁.glif</string>
 		<key>癶右半</key>
 		<string>癶右半.glif</string>
+		<key>発字底</key>
+		<string>発字底.glif</string>
 		<key>皮三</key>
 		<string>皮三.glif</string>
 		<key>益字头</key>
@@ -586,6 +592,8 @@
 		<string>重字框.glif</string>
 		<key>金字底</key>
 		<string>金字底.glif</string>
+		<key>門字旁</key>
+		<string>門字旁.glif</string>
 		<key>隶字框</key>
 		<string>隶字框.glif</string>
 		<key>隹字边</key>

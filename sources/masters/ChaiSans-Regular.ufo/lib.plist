@@ -4,9 +4,9 @@
 	<dict>
 		<key>org.unifiedfontobject.normalizer.modTimes</key>
 		<string>version: 0.6.3
-1779679892.8 fontinfo.plist
-1779679892.8 layercontents.plist
-1779679892.8 metainfo.plist</string>
+1781782051.8 fontinfo.plist
+1781782051.8 layercontents.plist
+1781782051.8 metainfo.plist</string>
 		<key>public.glyphOrder</key>
 		<array>
 			<string>.notdef</string>
@@ -345,6 +345,10 @@
 			<string>襄字头</string>
 			<string>㵸字旁头</string>
 			<string>寒字头无八</string>
+			<string>発字底</string>
+			<string>門字旁</string>
+			<string>淵字边左</string>
+			<string>淵字边右</string>
 		</array>
 	</dict>
 </plist>
